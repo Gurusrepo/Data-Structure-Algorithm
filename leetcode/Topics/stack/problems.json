@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-31T13:14:31.209Z",
+  "updatedAt": "2026-10-31T13:14:38.873Z",
   "problems": [
     {
       "frontendId": "20",
@@ -64,6 +64,26 @@
           "path": "leetcode/0155-min-stack/0155-min-stack.py",
           "sha": "8902fe4d567569b684b0c251669c4335f0967869",
           "lastSyncedAt": "2026-10-31T13:14:31.209Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "394",
+      "title": "Decode String",
+      "slug": "decode-string",
+      "problemName": "0394-decode-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string/",
+      "folderPath": "leetcode/0394-decode-string/",
+      "readmePath": "leetcode/0394-decode-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0394-decode-string.py",
+          "path": "leetcode/0394-decode-string/0394-decode-string.py",
+          "sha": "edeb5f3ee00d702351f6179c5e72014004d04181",
+          "lastSyncedAt": "2026-10-31T13:14:38.873Z"
         }
       ]
     }
