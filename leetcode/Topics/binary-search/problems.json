@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-31T13:25:25.882Z",
+  "updatedAt": "2026-10-31T13:28:09.235Z",
   "problems": [
     {
       "frontendId": "33",
@@ -164,6 +164,26 @@
           "path": "leetcode/0162-find-peak-element/0162-find-peak-element.py",
           "sha": "0b906595675870e88e9a200b3b747492a9120ac5",
           "lastSyncedAt": "2026-10-31T13:24:52.989Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "leetcode/0268-missing-number/",
+      "readmePath": "leetcode/0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0268-missing-number.py",
+          "path": "leetcode/0268-missing-number/0268-missing-number.py",
+          "sha": "c6910a15cfaeccc810b5b4ea7295963d5a14404f",
+          "lastSyncedAt": "2026-10-31T13:28:09.235Z"
         }
       ]
     },
