@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "interactive",
+    "name": "Interactive",
+    "tagId": "61059"
+  },
+  "updatedAt": "2026-10-31T13:18:14.520Z",
+  "problems": [
+    {
+      "frontendId": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "problemName": "0278-first-bad-version",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+      "folderPath": "leetcode/0278-first-bad-version/",
+      "readmePath": "leetcode/0278-first-bad-version/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0278-first-bad-version.py",
+          "path": "leetcode/0278-first-bad-version/0278-first-bad-version.py",
+          "sha": "af28468d6080f8744e1a735c3a4b47517c9f5411",
+          "lastSyncedAt": "2026-10-31T13:18:14.520Z"
+        }
+      ]
+    }
+  ]
+}
