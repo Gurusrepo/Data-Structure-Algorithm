@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-31T13:17:01.606Z",
+  "updatedAt": "2026-10-31T13:17:10.699Z",
   "problems": [
     {
       "frontendId": "20",
@@ -104,6 +104,26 @@
           "path": "leetcode/0155-min-stack/0155-min-stack.py",
           "sha": "8902fe4d567569b684b0c251669c4335f0967869",
           "lastSyncedAt": "2026-10-31T13:14:31.209Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "problemName": "0224-basic-calculator",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+      "folderPath": "leetcode/0224-basic-calculator/",
+      "readmePath": "leetcode/0224-basic-calculator/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0224-basic-calculator.py",
+          "path": "leetcode/0224-basic-calculator/0224-basic-calculator.py",
+          "sha": "64b2a00a2209847b02e2cdabca64fb949309c288",
+          "lastSyncedAt": "2026-10-31T13:17:10.699Z"
         }
       ]
     },
