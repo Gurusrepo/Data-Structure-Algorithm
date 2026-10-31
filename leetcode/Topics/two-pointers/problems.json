@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-31T13:19:23.569Z",
+  "updatedAt": "2026-10-31T13:22:22.545Z",
   "problems": [
     {
       "frontendId": "11",
@@ -83,7 +83,7 @@
           "filename": "0026-remove-duplicates-from-sorted-array.py",
           "path": "leetcode/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
           "sha": "6c41cb12f8dac3ca9e4611b0a88be8f0851c9912",
-          "lastSyncedAt": "2026-10-31T13:13:55.841Z"
+          "lastSyncedAt": "2026-10-31T13:22:22.545Z"
         }
       ]
     },
