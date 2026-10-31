@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:25:17.537Z",
+  "updatedAt": "2026-10-31T13:25:21.980Z",
   "problems": [
     {
       "frontendId": "11",
@@ -83,7 +83,7 @@
           "filename": "0033-search-in-rotated-sorted-array.py",
           "path": "leetcode/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
           "sha": "b17393f77333d2df10df7f4464090324a6ba5933",
-          "lastSyncedAt": "2026-10-31T13:18:45.273Z"
+          "lastSyncedAt": "2026-10-31T13:25:21.980Z"
         }
       ]
     },
