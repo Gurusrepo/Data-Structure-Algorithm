@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-31T13:14:22.009Z",
+  "updatedAt": "2026-10-31T13:14:31.209Z",
   "problems": [
     {
       "frontendId": "20",
@@ -44,6 +44,26 @@
           "path": "leetcode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "ccd70a523ff97327f782dea66a05b8804df20b7a",
           "lastSyncedAt": "2026-10-31T13:14:05.674Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "leetcode/0155-min-stack/",
+      "readmePath": "leetcode/0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0155-min-stack.py",
+          "path": "leetcode/0155-min-stack/0155-min-stack.py",
+          "sha": "8902fe4d567569b684b0c251669c4335f0967869",
+          "lastSyncedAt": "2026-10-31T13:14:31.209Z"
         }
       ]
     }
