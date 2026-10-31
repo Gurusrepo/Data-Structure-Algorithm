@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:19:06.915Z",
+  "updatedAt": "2026-10-31T13:19:23.569Z",
   "problems": [
     {
       "frontendId": "11",
@@ -104,6 +104,26 @@
           "path": "leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.py",
           "sha": "b6e81f9817a1005f6ce8d3706e70ecec80f4f94a",
           "lastSyncedAt": "2026-10-31T13:17:45.899Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "leetcode/0042-trapping-rain-water/",
+      "readmePath": "leetcode/0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0042-trapping-rain-water.py",
+          "path": "leetcode/0042-trapping-rain-water/0042-trapping-rain-water.py",
+          "sha": "90b75adcb1e5d6fbcad5d84050af546476b720e2",
+          "lastSyncedAt": "2026-10-31T13:19:23.569Z"
         }
       ]
     },
