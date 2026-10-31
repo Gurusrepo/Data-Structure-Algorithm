@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-31T13:14:38.873Z",
+  "updatedAt": "2026-10-31T13:15:16.853Z",
   "problems": [
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "leetcode/0206-reverse-linked-list/",
+      "readmePath": "leetcode/0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0206-reverse-linked-list.py",
+          "path": "leetcode/0206-reverse-linked-list/0206-reverse-linked-list.py",
+          "sha": "d7843ba45875376486a29eb1cada41814cf85be9",
+          "lastSyncedAt": "2026-10-31T13:15:16.853Z"
+        }
+      ]
+    },
     {
       "frontendId": "394",
       "title": "Decode String",
