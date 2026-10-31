@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:18:29.433Z",
+  "updatedAt": "2026-10-31T13:18:38.896Z",
   "problems": [
     {
       "frontendId": "11",
@@ -84,6 +84,26 @@
           "path": "leetcode/0074-search-a-2d-matrix/0074-search-a-2d-matrix.py",
           "sha": "b003ad9d05ad6b3975afcca92745a84cf8fa2b37",
           "lastSyncedAt": "2026-10-31T13:18:29.433Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "problemName": "0081-search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "folderPath": "leetcode/0081-search-in-rotated-sorted-array-ii/",
+      "readmePath": "leetcode/0081-search-in-rotated-sorted-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0081-search-in-rotated-sorted-array-ii.py",
+          "path": "leetcode/0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.py",
+          "sha": "52238c33bd7b7999783daceb4ffea8ac658b91b7",
+          "lastSyncedAt": "2026-10-31T13:18:38.896Z"
         }
       ]
     },
