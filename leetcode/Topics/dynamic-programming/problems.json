@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-31T13:26:16.142Z",
+  "updatedAt": "2026-10-31T13:26:46.192Z",
   "problems": [
     {
       "frontendId": "32",
@@ -64,6 +64,26 @@
           "path": "leetcode/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "cb3c5cef354e045cf134fb885fd47eaf03f6365a",
           "lastSyncedAt": "2026-10-31T13:26:16.142Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "problemName": "0435-non-overlapping-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "folderPath": "leetcode/0435-non-overlapping-intervals/",
+      "readmePath": "leetcode/0435-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0435-non-overlapping-intervals.py",
+          "path": "leetcode/0435-non-overlapping-intervals/0435-non-overlapping-intervals.py",
+          "sha": "111ad9a6e96c4e7e50aa78ffe5bf35a1a8efe371",
+          "lastSyncedAt": "2026-10-31T13:26:46.192Z"
         }
       ]
     }
