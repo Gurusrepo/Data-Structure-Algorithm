@@ -5,8 +5,28 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-31T13:14:05.674Z",
+  "updatedAt": "2026-10-31T13:14:22.009Z",
   "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "leetcode/0020-valid-parentheses/",
+      "readmePath": "leetcode/0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0020-valid-parentheses.py",
+          "path": "leetcode/0020-valid-parentheses/0020-valid-parentheses.py",
+          "sha": "975c178c12415df3475f8db73d0d40536008c44c",
+          "lastSyncedAt": "2026-10-31T13:14:22.009Z"
+        }
+      ]
+    },
     {
       "frontendId": "32",
       "title": "Longest Valid Parentheses",
