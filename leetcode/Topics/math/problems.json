@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-31T13:17:10.699Z",
+  "updatedAt": "2026-10-31T13:17:52.118Z",
   "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "leetcode/0069-sqrtx/",
+      "readmePath": "leetcode/0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0069-sqrtx.py",
+          "path": "leetcode/0069-sqrtx/0069-sqrtx.py",
+          "sha": "86b77adf0aa99ea3579673eed300f49f5609df98",
+          "lastSyncedAt": "2026-10-31T13:17:52.118Z"
+        }
+      ]
+    },
     {
       "frontendId": "150",
       "title": "Evaluate Reverse Polish Notation",
