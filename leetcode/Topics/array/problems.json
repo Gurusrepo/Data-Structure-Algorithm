@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:15:29.852Z",
+  "updatedAt": "2026-10-31T13:15:39.806Z",
   "problems": [
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "leetcode/0011-container-with-most-water/",
+      "readmePath": "leetcode/0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0011-container-with-most-water.py",
+          "path": "leetcode/0011-container-with-most-water/0011-container-with-most-water.py",
+          "sha": "19c2450aff42901b0e2a8bd285a4ca53779a9610",
+          "lastSyncedAt": "2026-10-31T13:15:39.806Z"
+        }
+      ]
+    },
     {
       "frontendId": "26",
       "title": "Remove Duplicates from Sorted Array",
