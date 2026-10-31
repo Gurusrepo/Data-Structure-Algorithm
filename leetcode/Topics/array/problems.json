@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:25:47.318Z",
+  "updatedAt": "2026-10-31T13:25:59.075Z",
   "problems": [
     {
       "frontendId": "11",
@@ -24,6 +24,26 @@
           "path": "leetcode/0011-container-with-most-water/0011-container-with-most-water.py",
           "sha": "19c2450aff42901b0e2a8bd285a4ca53779a9610",
           "lastSyncedAt": "2026-10-31T13:23:19.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "leetcode/0014-longest-common-prefix/",
+      "readmePath": "leetcode/0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0014-longest-common-prefix.py",
+          "path": "leetcode/0014-longest-common-prefix/0014-longest-common-prefix.py",
+          "sha": "3c2cf82833acafa0ecb531cecafbb53dbcb45ad3",
+          "lastSyncedAt": "2026-10-31T13:25:59.075Z"
         }
       ]
     },
