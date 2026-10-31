@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-31T13:27:04.800Z",
+  "updatedAt": "2026-10-31T13:27:30.592Z",
   "problems": [
     {
       "frontendId": "53",
@@ -24,6 +24,26 @@
           "path": "leetcode/0053-maximum-subarray/0053-maximum-subarray.py",
           "sha": "79593eee86773eea39856cf16177ba727ac72e26",
           "lastSyncedAt": "2026-10-31T13:27:04.800Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "leetcode/0169-majority-element/",
+      "readmePath": "leetcode/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0169-majority-element.py",
+          "path": "leetcode/0169-majority-element/0169-majority-element.py",
+          "sha": "53150bc1174d0f403a918d35364fda57535013c4",
+          "lastSyncedAt": "2026-10-31T13:27:30.592Z"
         }
       ]
     }
