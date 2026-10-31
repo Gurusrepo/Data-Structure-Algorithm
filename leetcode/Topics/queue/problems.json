@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "queue",
+    "name": "Queue",
+    "tagId": "34"
+  },
+  "updatedAt": "2026-10-31T13:15:49.018Z",
+  "problems": [
+    {
+      "frontendId": "622",
+      "title": "Design Circular Queue",
+      "slug": "design-circular-queue",
+      "problemName": "0622-design-circular-queue",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-circular-queue/",
+      "folderPath": "leetcode/0622-design-circular-queue/",
+      "readmePath": "leetcode/0622-design-circular-queue/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0622-design-circular-queue.py",
+          "path": "leetcode/0622-design-circular-queue/0622-design-circular-queue.py",
+          "sha": "54dc0c1829b6e68b66104a7d66a07260061109e1",
+          "lastSyncedAt": "2026-10-31T13:15:49.018Z"
+        }
+      ]
+    }
+  ]
+}
