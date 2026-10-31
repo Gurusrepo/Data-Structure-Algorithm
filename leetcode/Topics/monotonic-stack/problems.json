@@ -5,8 +5,28 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-10-31T13:17:01.606Z",
+  "updatedAt": "2026-10-31T13:19:23.569Z",
   "problems": [
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "leetcode/0042-trapping-rain-water/",
+      "readmePath": "leetcode/0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0042-trapping-rain-water.py",
+          "path": "leetcode/0042-trapping-rain-water/0042-trapping-rain-water.py",
+          "sha": "90b75adcb1e5d6fbcad5d84050af546476b720e2",
+          "lastSyncedAt": "2026-10-31T13:19:23.569Z"
+        }
+      ]
+    },
     {
       "frontendId": "84",
       "title": "Largest Rectangle in Histogram",
