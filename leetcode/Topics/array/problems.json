@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:15:49.018Z",
+  "updatedAt": "2026-10-31T13:16:08.554Z",
   "problems": [
     {
       "frontendId": "11",
@@ -64,6 +64,26 @@
           "path": "leetcode/0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
           "sha": "a4a3a74bffa77d75a664b03ef0f163acf17413f1",
           "lastSyncedAt": "2026-10-31T13:15:29.852Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "leetcode/0239-sliding-window-maximum/",
+      "readmePath": "leetcode/0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0239-sliding-window-maximum.py",
+          "path": "leetcode/0239-sliding-window-maximum/0239-sliding-window-maximum.py",
+          "sha": "e288ce3fb9f3360cffd74273b67913e2e4de4207",
+          "lastSyncedAt": "2026-10-31T13:16:08.554Z"
         }
       ]
     },
