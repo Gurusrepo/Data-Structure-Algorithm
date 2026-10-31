@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-31T13:27:30.592Z",
+  "updatedAt": "2026-10-31T13:27:45.730Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "leetcode/0001-two-sum/",
+      "readmePath": "leetcode/0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0001-two-sum.py",
+          "path": "leetcode/0001-two-sum/0001-two-sum.py",
+          "sha": "1c7b0113c6dabecec6b9a636e8c075a127e2b670",
+          "lastSyncedAt": "2026-10-31T13:27:45.730Z"
+        }
+      ]
+    },
     {
       "frontendId": "141",
       "title": "Linked List Cycle",
