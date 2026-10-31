@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-31T13:16:44.005Z",
+  "updatedAt": "2026-10-31T13:16:53.836Z",
   "problems": [
     {
       "frontendId": "20",
@@ -164,6 +164,26 @@
           "path": "leetcode/0456-132-pattern/0456-132-pattern.py",
           "sha": "b9737f8c301d882fdd74a577ff847be2afc238af",
           "lastSyncedAt": "2026-10-31T13:16:27.297Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "739",
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "problemName": "0739-daily-temperatures",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+      "folderPath": "leetcode/0739-daily-temperatures/",
+      "readmePath": "leetcode/0739-daily-temperatures/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0739-daily-temperatures.py",
+          "path": "leetcode/0739-daily-temperatures/0739-daily-temperatures.py",
+          "sha": "2abec18c578dc096f84f3fa7369506416c1633d2",
+          "lastSyncedAt": "2026-10-31T13:16:53.836Z"
         }
       ]
     }
