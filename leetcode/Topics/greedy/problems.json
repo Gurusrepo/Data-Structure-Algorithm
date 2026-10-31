@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-31T13:23:19.687Z",
+  "updatedAt": "2026-10-31T13:26:46.192Z",
   "problems": [
     {
       "frontendId": "11",
@@ -24,6 +24,26 @@
           "path": "leetcode/0011-container-with-most-water/0011-container-with-most-water.py",
           "sha": "19c2450aff42901b0e2a8bd285a4ca53779a9610",
           "lastSyncedAt": "2026-10-31T13:23:19.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "problemName": "0435-non-overlapping-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "folderPath": "leetcode/0435-non-overlapping-intervals/",
+      "readmePath": "leetcode/0435-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0435-non-overlapping-intervals.py",
+          "path": "leetcode/0435-non-overlapping-intervals/0435-non-overlapping-intervals.py",
+          "sha": "111ad9a6e96c4e7e50aa78ffe5bf35a1a8efe371",
+          "lastSyncedAt": "2026-10-31T13:26:46.192Z"
         }
       ]
     }
