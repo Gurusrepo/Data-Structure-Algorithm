@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:27:22.957Z",
+  "updatedAt": "2026-10-31T13:27:30.592Z",
   "problems": [
     {
       "frontendId": "11",
@@ -344,6 +344,26 @@
           "path": "leetcode/0162-find-peak-element/0162-find-peak-element.py",
           "sha": "0b906595675870e88e9a200b3b747492a9120ac5",
           "lastSyncedAt": "2026-10-31T13:24:52.989Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "leetcode/0169-majority-element/",
+      "readmePath": "leetcode/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0169-majority-element.py",
+          "path": "leetcode/0169-majority-element/0169-majority-element.py",
+          "sha": "53150bc1174d0f403a918d35364fda57535013c4",
+          "lastSyncedAt": "2026-10-31T13:27:30.592Z"
         }
       ]
     },
