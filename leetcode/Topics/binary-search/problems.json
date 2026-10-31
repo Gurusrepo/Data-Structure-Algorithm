@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-31T13:18:38.896Z",
+  "updatedAt": "2026-10-31T13:18:45.273Z",
   "problems": [
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "leetcode/0033-search-in-rotated-sorted-array/",
+      "readmePath": "leetcode/0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0033-search-in-rotated-sorted-array.py",
+          "path": "leetcode/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
+          "sha": "b17393f77333d2df10df7f4464090324a6ba5933",
+          "lastSyncedAt": "2026-10-31T13:18:45.273Z"
+        }
+      ]
+    },
     {
       "frontendId": "34",
       "title": "Find First and Last Position of Element in Sorted Array",
