@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-31T13:18:57.650Z",
+  "updatedAt": "2026-10-31T13:19:06.915Z",
   "problems": [
     {
       "frontendId": "11",
@@ -144,6 +144,26 @@
           "path": "leetcode/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.py",
           "sha": "dffe9fb63343a8858c0113ebcd90cd6463abdc4b",
           "lastSyncedAt": "2026-10-31T13:15:10.587Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "977",
+      "title": "Squares of a Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "problemName": "0977-squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+      "folderPath": "leetcode/0977-squares-of-a-sorted-array/",
+      "readmePath": "leetcode/0977-squares-of-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0977-squares-of-a-sorted-array.py",
+          "path": "leetcode/0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.py",
+          "sha": "497772b1984eb313da401cce6b6dc80445757315",
+          "lastSyncedAt": "2026-10-31T13:19:06.915Z"
         }
       ]
     }
