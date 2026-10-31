@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:24:57.339Z",
+  "updatedAt": "2026-10-31T13:25:06.319Z",
   "problems": [
     {
       "frontendId": "11",
@@ -223,7 +223,7 @@
           "filename": "0153-find-minimum-in-rotated-sorted-array.py",
           "path": "leetcode/0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.py",
           "sha": "e8dab02c6cd20212ec584f5ae9f31d419712e54c",
-          "lastSyncedAt": "2026-10-31T13:18:22.542Z"
+          "lastSyncedAt": "2026-10-31T13:25:06.319Z"
         }
       ]
     },
