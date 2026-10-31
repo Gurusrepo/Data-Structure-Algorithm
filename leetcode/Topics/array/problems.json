@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:27:45.730Z",
+  "updatedAt": "2026-10-31T13:27:53.339Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.py",
           "sha": "b6e81f9817a1005f6ce8d3706e70ecec80f4f94a",
           "lastSyncedAt": "2026-10-31T13:24:43.523Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "leetcode/0041-first-missing-positive/",
+      "readmePath": "leetcode/0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0041-first-missing-positive.py",
+          "path": "leetcode/0041-first-missing-positive/0041-first-missing-positive.py",
+          "sha": "8e47e92a019ea6e46ae8a93216d45a911e74c076",
+          "lastSyncedAt": "2026-10-31T13:27:53.339Z"
         }
       ]
     },
