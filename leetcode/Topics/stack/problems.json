@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-31T13:14:38.873Z",
+  "updatedAt": "2026-10-31T13:15:29.852Z",
   "problems": [
     {
       "frontendId": "20",
@@ -44,6 +44,26 @@
           "path": "leetcode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "ccd70a523ff97327f782dea66a05b8804df20b7a",
           "lastSyncedAt": "2026-10-31T13:14:05.674Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "leetcode/0150-evaluate-reverse-polish-notation/",
+      "readmePath": "leetcode/0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0150-evaluate-reverse-polish-notation.py",
+          "path": "leetcode/0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
+          "sha": "a4a3a74bffa77d75a664b03ef0f163acf17413f1",
+          "lastSyncedAt": "2026-10-31T13:15:29.852Z"
         }
       ]
     },
