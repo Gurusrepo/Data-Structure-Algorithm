@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-31T13:25:10.529Z",
+  "updatedAt": "2026-10-31T13:25:17.537Z",
   "problems": [
     {
       "frontendId": "33",
@@ -103,7 +103,7 @@
           "filename": "0081-search-in-rotated-sorted-array-ii.py",
           "path": "leetcode/0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.py",
           "sha": "52238c33bd7b7999783daceb4ffea8ac658b91b7",
-          "lastSyncedAt": "2026-10-31T13:18:38.896Z"
+          "lastSyncedAt": "2026-10-31T13:25:17.537Z"
         }
       ]
     },
