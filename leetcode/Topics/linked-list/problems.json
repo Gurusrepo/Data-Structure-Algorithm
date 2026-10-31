@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-31T13:15:04.055Z",
+  "updatedAt": "2026-10-31T13:15:10.587Z",
   "problems": [
     {
       "frontendId": "19",
@@ -44,6 +44,26 @@
           "path": "leetcode/0141-linked-list-cycle/0141-linked-list-cycle.py",
           "sha": "c0c23d6422d6babbeeb71033f6f5f238d4d02b23",
           "lastSyncedAt": "2026-10-31T13:14:48.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "problemName": "0876-middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "folderPath": "leetcode/0876-middle-of-the-linked-list/",
+      "readmePath": "leetcode/0876-middle-of-the-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0876-middle-of-the-linked-list.py",
+          "path": "leetcode/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.py",
+          "sha": "dffe9fb63343a8858c0113ebcd90cd6463abdc4b",
+          "lastSyncedAt": "2026-10-31T13:15:10.587Z"
         }
       ]
     }
