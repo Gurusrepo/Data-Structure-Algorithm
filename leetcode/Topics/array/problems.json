@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:13:55.841Z",
+  "updatedAt": "2026-10-31T13:15:29.852Z",
   "problems": [
     {
       "frontendId": "26",
@@ -24,6 +24,26 @@
           "path": "leetcode/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
           "sha": "6c41cb12f8dac3ca9e4611b0a88be8f0851c9912",
           "lastSyncedAt": "2026-10-31T13:13:55.841Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "leetcode/0150-evaluate-reverse-polish-notation/",
+      "readmePath": "leetcode/0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0150-evaluate-reverse-polish-notation.py",
+          "path": "leetcode/0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
+          "sha": "a4a3a74bffa77d75a664b03ef0f163acf17413f1",
+          "lastSyncedAt": "2026-10-31T13:15:29.852Z"
         }
       ]
     }
