@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:16:27.297Z",
+  "updatedAt": "2026-10-31T13:16:44.005Z",
   "problems": [
     {
       "frontendId": "11",
@@ -44,6 +44,26 @@
           "path": "leetcode/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
           "sha": "6c41cb12f8dac3ca9e4611b0a88be8f0851c9912",
           "lastSyncedAt": "2026-10-31T13:13:55.841Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "problemName": "0084-largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "folderPath": "leetcode/0084-largest-rectangle-in-histogram/",
+      "readmePath": "leetcode/0084-largest-rectangle-in-histogram/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0084-largest-rectangle-in-histogram.py",
+          "path": "leetcode/0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.py",
+          "sha": "9c2623d087a691c5aa79bce50c67674641cf2cf8",
+          "lastSyncedAt": "2026-10-31T13:16:44.005Z"
         }
       ]
     },
