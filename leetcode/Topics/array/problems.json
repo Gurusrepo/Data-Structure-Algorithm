@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:26:46.192Z",
+  "updatedAt": "2026-10-31T13:26:56.206Z",
   "problems": [
     {
       "frontendId": "11",
@@ -324,6 +324,26 @@
           "path": "leetcode/0162-find-peak-element/0162-find-peak-element.py",
           "sha": "0b906595675870e88e9a200b3b747492a9120ac5",
           "lastSyncedAt": "2026-10-31T13:24:52.989Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "leetcode/0189-rotate-array/",
+      "readmePath": "leetcode/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0189-rotate-array.py",
+          "path": "leetcode/0189-rotate-array/0189-rotate-array.py",
+          "sha": "be4f686d7403735f073eaca6566b52b3bf4e2666",
+          "lastSyncedAt": "2026-10-31T13:26:56.206Z"
         }
       ]
     },
