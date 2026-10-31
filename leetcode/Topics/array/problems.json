@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:26:56.206Z",
+  "updatedAt": "2026-10-31T13:27:04.800Z",
   "problems": [
     {
       "frontendId": "11",
@@ -144,6 +144,26 @@
           "path": "leetcode/0042-trapping-rain-water/0042-trapping-rain-water.py",
           "sha": "90b75adcb1e5d6fbcad5d84050af546476b720e2",
           "lastSyncedAt": "2026-10-31T13:25:47.318Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "leetcode/0053-maximum-subarray/",
+      "readmePath": "leetcode/0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0053-maximum-subarray.py",
+          "path": "leetcode/0053-maximum-subarray/0053-maximum-subarray.py",
+          "sha": "79593eee86773eea39856cf16177ba727ac72e26",
+          "lastSyncedAt": "2026-10-31T13:27:04.800Z"
         }
       ]
     },
