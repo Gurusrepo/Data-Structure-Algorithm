@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-31T13:26:38.730Z",
+  "updatedAt": "2026-10-31T13:27:22.957Z",
   "problems": [
     {
       "frontendId": "238",
@@ -24,6 +24,26 @@
           "path": "leetcode/0238-product-of-array-except-self/0238-product-of-array-except-self.py",
           "sha": "d5727eba7a04626b8e0a368d52e35f8e7901fe0e",
           "lastSyncedAt": "2026-10-31T13:26:38.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "525",
+      "title": "Contiguous Array",
+      "slug": "contiguous-array",
+      "problemName": "0525-contiguous-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/contiguous-array/",
+      "folderPath": "leetcode/0525-contiguous-array/",
+      "readmePath": "leetcode/0525-contiguous-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0525-contiguous-array.py",
+          "path": "leetcode/0525-contiguous-array/0525-contiguous-array.py",
+          "sha": "1f9031b863a7ad43efc120055a6811f2ede95acc",
+          "lastSyncedAt": "2026-10-31T13:27:22.957Z"
         }
       ]
     },
