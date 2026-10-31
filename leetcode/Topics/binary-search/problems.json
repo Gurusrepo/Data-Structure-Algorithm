@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-31T13:18:22.542Z",
+  "updatedAt": "2026-10-31T13:18:29.433Z",
   "problems": [
     {
       "frontendId": "34",
@@ -44,6 +44,26 @@
           "path": "leetcode/0069-sqrtx/0069-sqrtx.py",
           "sha": "86b77adf0aa99ea3579673eed300f49f5609df98",
           "lastSyncedAt": "2026-10-31T13:17:52.118Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "leetcode/0074-search-a-2d-matrix/",
+      "readmePath": "leetcode/0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0074-search-a-2d-matrix.py",
+          "path": "leetcode/0074-search-a-2d-matrix/0074-search-a-2d-matrix.py",
+          "sha": "b003ad9d05ad6b3975afcca92745a84cf8fa2b37",
+          "lastSyncedAt": "2026-10-31T13:18:29.433Z"
         }
       ]
     },
