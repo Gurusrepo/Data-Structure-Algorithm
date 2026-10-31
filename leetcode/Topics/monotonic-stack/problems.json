@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-10-31T13:16:53.836Z",
+  "updatedAt": "2026-10-31T13:17:01.606Z",
   "problems": [
     {
       "frontendId": "84",
@@ -44,6 +44,26 @@
           "path": "leetcode/0456-132-pattern/0456-132-pattern.py",
           "sha": "b9737f8c301d882fdd74a577ff847be2afc238af",
           "lastSyncedAt": "2026-10-31T13:16:27.297Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "leetcode/0496-next-greater-element-i/",
+      "readmePath": "leetcode/0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0496-next-greater-element-i.py",
+          "path": "leetcode/0496-next-greater-element-i/0496-next-greater-element-i.py",
+          "sha": "3f0fa060aff6a96e45b24118b556f8059d8ba103",
+          "lastSyncedAt": "2026-10-31T13:17:01.606Z"
         }
       ]
     },
