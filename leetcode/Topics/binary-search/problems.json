@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-31T13:24:57.339Z",
+  "updatedAt": "2026-10-31T13:25:02.271Z",
   "problems": [
     {
       "frontendId": "33",
@@ -183,7 +183,7 @@
           "filename": "0278-first-bad-version.py",
           "path": "leetcode/0278-first-bad-version/0278-first-bad-version.py",
           "sha": "af28468d6080f8744e1a735c3a4b47517c9f5411",
-          "lastSyncedAt": "2026-10-31T13:18:14.520Z"
+          "lastSyncedAt": "2026-10-31T13:25:02.271Z"
         }
       ]
     },
