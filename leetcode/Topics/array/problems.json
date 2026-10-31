@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T13:16:08.554Z",
+  "updatedAt": "2026-10-31T13:16:27.297Z",
   "problems": [
     {
       "frontendId": "11",
@@ -84,6 +84,26 @@
           "path": "leetcode/0239-sliding-window-maximum/0239-sliding-window-maximum.py",
           "sha": "e288ce3fb9f3360cffd74273b67913e2e4de4207",
           "lastSyncedAt": "2026-10-31T13:16:08.554Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "456",
+      "title": "132 Pattern",
+      "slug": "132-pattern",
+      "problemName": "0456-132-pattern",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/132-pattern/",
+      "folderPath": "leetcode/0456-132-pattern/",
+      "readmePath": "leetcode/0456-132-pattern/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0456-132-pattern.py",
+          "path": "leetcode/0456-132-pattern/0456-132-pattern.py",
+          "sha": "b9737f8c301d882fdd74a577ff847be2afc238af",
+          "lastSyncedAt": "2026-10-31T13:16:27.297Z"
         }
       ]
     },
