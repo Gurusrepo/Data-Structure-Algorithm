@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "linked-list",
+    "name": "Linked List",
+    "tagId": "7"
+  },
+  "updatedAt": "2026-10-31T13:14:48.756Z",
+  "problems": [
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "leetcode/0141-linked-list-cycle/",
+      "readmePath": "leetcode/0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0141-linked-list-cycle.py",
+          "path": "leetcode/0141-linked-list-cycle/0141-linked-list-cycle.py",
+          "sha": "c0c23d6422d6babbeeb71033f6f5f238d4d02b23",
+          "lastSyncedAt": "2026-10-31T13:14:48.756Z"
+        }
+      ]
+    }
+  ]
+}
