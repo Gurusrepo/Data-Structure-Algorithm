@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-31T13:22:26.999Z",
+  "updatedAt": "2026-10-31T13:25:47.318Z",
   "problems": [
     {
       "frontendId": "32",
@@ -43,7 +43,7 @@
           "filename": "0042-trapping-rain-water.py",
           "path": "leetcode/0042-trapping-rain-water/0042-trapping-rain-water.py",
           "sha": "90b75adcb1e5d6fbcad5d84050af546476b720e2",
-          "lastSyncedAt": "2026-10-31T13:19:23.569Z"
+          "lastSyncedAt": "2026-10-31T13:25:47.318Z"
         }
       ]
     }
