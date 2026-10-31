@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack",
+    "tagId": "15"
+  },
+  "updatedAt": "2026-10-31T13:14:05.674Z",
+  "problems": [
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "leetcode/0032-longest-valid-parentheses/",
+      "readmePath": "leetcode/0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0032-longest-valid-parentheses.py",
+          "path": "leetcode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
+          "sha": "ccd70a523ff97327f782dea66a05b8804df20b7a",
+          "lastSyncedAt": "2026-10-31T13:14:05.674Z"
+        }
+      ]
+    }
+  ]
+}
