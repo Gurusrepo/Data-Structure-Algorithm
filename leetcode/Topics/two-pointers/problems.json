@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-31T13:25:47.318Z",
+  "updatedAt": "2026-10-31T13:26:09.219Z",
   "problems": [
     {
       "frontendId": "11",
@@ -144,6 +144,26 @@
           "path": "leetcode/0283-move-zeroes/0283-move-zeroes.py",
           "sha": "6bda04f3cbd5897247d3cfcf18c90c45c8f1c53f",
           "lastSyncedAt": "2026-10-31T13:24:39.064Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "leetcode/0443-string-compression/",
+      "readmePath": "leetcode/0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0443-string-compression.py",
+          "path": "leetcode/0443-string-compression/0443-string-compression.py",
+          "sha": "ef09b738fc73e51f2c6688399b53188469bbed10",
+          "lastSyncedAt": "2026-10-31T13:26:09.219Z"
         }
       ]
     },
