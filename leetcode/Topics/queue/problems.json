@@ -5,7 +5,7 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-10-31T13:16:00.649Z",
+  "updatedAt": "2026-10-31T13:16:08.554Z",
   "problems": [
     {
       "frontendId": "225",
@@ -24,6 +24,26 @@
           "path": "leetcode/0225-implement-stack-using-queues/0225-implement-stack-using-queues.py",
           "sha": "ea7c0247fdcd11655a5c950183abbe396c25d82c",
           "lastSyncedAt": "2026-10-31T13:16:00.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "leetcode/0239-sliding-window-maximum/",
+      "readmePath": "leetcode/0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0239-sliding-window-maximum.py",
+          "path": "leetcode/0239-sliding-window-maximum/0239-sliding-window-maximum.py",
+          "sha": "e288ce3fb9f3360cffd74273b67913e2e4de4207",
+          "lastSyncedAt": "2026-10-31T13:16:08.554Z"
         }
       ]
     },
