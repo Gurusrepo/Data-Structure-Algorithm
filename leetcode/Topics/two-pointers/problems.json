@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-31T13:26:56.206Z",
+  "updatedAt": "2026-10-31T13:28:25.090Z",
   "problems": [
     {
       "frontendId": "11",
@@ -104,6 +104,26 @@
           "path": "leetcode/0042-trapping-rain-water/0042-trapping-rain-water.py",
           "sha": "90b75adcb1e5d6fbcad5d84050af546476b720e2",
           "lastSyncedAt": "2026-10-31T13:25:47.318Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "leetcode/0075-sort-colors/",
+      "readmePath": "leetcode/0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0075-sort-colors.py",
+          "path": "leetcode/0075-sort-colors/0075-sort-colors.py",
+          "sha": "50f1f4e70a317feb5ac83d0c4353577f415705c7",
+          "lastSyncedAt": "2026-10-31T13:28:25.090Z"
         }
       ]
     },
