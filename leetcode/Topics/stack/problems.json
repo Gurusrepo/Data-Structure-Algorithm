@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-31T13:25:47.318Z",
+  "updatedAt": "2026-11-03T08:20:51.467Z",
   "problems": [
     {
       "frontendId": "20",
@@ -144,6 +144,14 @@
           "path": "leetcode/0224-basic-calculator/0224-basic-calculator.py",
           "sha": "64b2a00a2209847b02e2cdabca64fb949309c288",
           "lastSyncedAt": "2026-10-31T13:24:19.432Z"
+        },
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0224-basic-calculator.py",
+          "path": "leetcode/0224-basic-calculator/0224-basic-calculator.py",
+          "sha": "64b2a00a2209847b02e2cdabca64fb949309c288",
+          "lastSyncedAt": "2026-11-03T08:20:51.467Z"
         }
       ]
     },
