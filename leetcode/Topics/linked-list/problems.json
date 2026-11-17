@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-16T15:33:19.985Z",
+  "updatedAt": "2026-11-17T16:28:15.911Z",
   "problems": [
     {
       "frontendId": "19",
@@ -52,6 +52,26 @@
           "path": "leetcode/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
           "sha": "4023e7d0e7963606355b78d3788174b8d9f47abd",
           "lastSyncedAt": "2026-11-16T15:33:19.985Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "86",
+      "title": "Partition List",
+      "slug": "partition-list",
+      "problemName": "0086-partition-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+      "folderPath": "leetcode/0086-partition-list/",
+      "readmePath": "leetcode/0086-partition-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0086-partition-list.py",
+          "path": "leetcode/0086-partition-list/0086-partition-list.py",
+          "sha": "a4ae6e4152372025b308e95095f28417d52b366f",
+          "lastSyncedAt": "2026-11-17T16:28:15.911Z"
         }
       ]
     },
