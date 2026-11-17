@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-12T18:52:26.965Z",
+  "updatedAt": "2026-11-17T16:28:15.911Z",
   "problems": [
     {
       "frontendId": "11",
@@ -124,6 +124,26 @@
           "path": "leetcode/0075-sort-colors/0075-sort-colors.py",
           "sha": "50f1f4e70a317feb5ac83d0c4353577f415705c7",
           "lastSyncedAt": "2026-10-31T13:28:25.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "86",
+      "title": "Partition List",
+      "slug": "partition-list",
+      "problemName": "0086-partition-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+      "folderPath": "leetcode/0086-partition-list/",
+      "readmePath": "leetcode/0086-partition-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0086-partition-list.py",
+          "path": "leetcode/0086-partition-list/0086-partition-list.py",
+          "sha": "a4ae6e4152372025b308e95095f28417d52b366f",
+          "lastSyncedAt": "2026-11-17T16:28:15.911Z"
         }
       ]
     },
