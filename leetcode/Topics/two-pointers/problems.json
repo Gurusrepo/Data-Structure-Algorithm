@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-17T17:17:28.192Z",
+  "updatedAt": "2026-11-18T14:41:53.344Z",
   "problems": [
     {
       "frontendId": "11",
@@ -164,6 +164,26 @@
           "path": "leetcode/0141-linked-list-cycle/0141-linked-list-cycle.py",
           "sha": "c0c23d6422d6babbeeb71033f6f5f238d4d02b23",
           "lastSyncedAt": "2026-11-12T18:52:26.965Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "leetcode/0143-reorder-list/",
+      "readmePath": "leetcode/0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0143-reorder-list.py",
+          "path": "leetcode/0143-reorder-list/0143-reorder-list.py",
+          "sha": "6502de8c11db75ce548c6cfacab0a86e78ecb4fa",
+          "lastSyncedAt": "2026-11-18T14:41:53.344Z"
         }
       ]
     },
