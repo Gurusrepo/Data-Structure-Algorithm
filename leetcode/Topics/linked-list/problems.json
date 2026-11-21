@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-18T14:41:53.344Z",
+  "updatedAt": "2026-11-21T18:19:07.080Z",
   "problems": [
     {
       "frontendId": "19",
@@ -131,7 +131,7 @@
           "filename": "0143-reorder-list.py",
           "path": "leetcode/0143-reorder-list/0143-reorder-list.py",
           "sha": "6502de8c11db75ce548c6cfacab0a86e78ecb4fa",
-          "lastSyncedAt": "2026-11-18T14:41:53.344Z"
+          "lastSyncedAt": "2026-11-21T18:19:07.080Z"
         }
       ]
     },
