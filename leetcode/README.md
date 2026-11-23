@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 24 | 29 | 7 |
+| 61 | 24 | 30 | 7 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-10-29 | 1 |
 | 2026-11-17 | 3 |
 | 2026-11-18 | 2 |
-| 2026-11-23 | 1 |
+| 2026-11-23 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 63% |
-| Two Pointers | 16 | 27% |
+| Array | 38 | 62% |
+| Two Pointers | 17 | 28% |
 | Stack | 14 | 23% |
-| Binary Search | 13 | 22% |
-| Hash Table | 13 | 22% |
-| Linked List | 12 | 20% |
-| Sorting | 10 | 17% |
+| Binary Search | 13 | 21% |
+| Hash Table | 13 | 21% |
+| Linked List | 13 | 21% |
+| Sorting | 10 | 16% |
 | String | 8 | 13% |
-| Recursion | 7 | 12% |
+| Recursion | 7 | 11% |
 | Dynamic Programming | 5 | 8% |
 
 ## Topics
@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 13 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 1 |
-| [Linked List](Topics/linked-list/) | 12 |
+| [Linked List](Topics/linked-list/) | 13 |
 | [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
@@ -80,5 +80,5 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 14 |
 | [String](Topics/string/) | 8 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 16 |
+| [Two Pointers](Topics/two-pointers/) | 17 |
 <!---LeetHub Summary End-->
